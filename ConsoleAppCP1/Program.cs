@@ -13,7 +13,8 @@ while (controlarExecucao)
         "\n2- Listar Contas " +
         "\n3- Depositar" +
         "\n4- Sacar" +
-        "\n5- Calcular imposto");
+        "\n5- Calcular imposto" +
+        "\n6- Sair");
     Console.Write("Opção desejada: ");
 
     var opcao = Console.ReadLine();
